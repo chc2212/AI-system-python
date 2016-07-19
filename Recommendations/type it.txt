@@ -1,0 +1,6 @@
+from recommendations import *
+precompute(critics)
+getRecommendations(critics,'Toby')
+getRecommendations(critics,'Jack Matthews')
+...
+
